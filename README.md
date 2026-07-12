@@ -18,4 +18,4 @@
 - C++ 17, OpenGL 3.3+
 - Библиотеки: GLFW, GLAD, GLM, Dear ImGui, tinyexpr
 
-##Более подробно см. PDF
+## Более подробно см. PDF
